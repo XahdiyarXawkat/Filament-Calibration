@@ -1,0 +1,14 @@
+# Filament-Calibration 环境依赖
+# Python >= 3.8
+
+# 机器视觉
+opencv-python>=4.5.0
+numpy>=1.21.0
+
+# 数据处理
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# 图像采集（USB 摄像头）
+# 可选：如需工业相机 SDK，按实际型号安装
+（内容由AI生成，仅供参考）
