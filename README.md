@@ -86,6 +86,4 @@ python temp_tower.py --start 220 --end 190 --step 5 --filament PLA
 
 ## 📄 License
 
-MIT License
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
+
