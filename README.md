@@ -42,7 +42,8 @@ AIGC:
 
 | 校准前 | 校准后 |
 |--------|--------|
-| ![校准前]<img width="1206" height="2622" alt="968eebb70b9200f0e81452dd13c41309" src="https://github.com/user-attachments/assets/c8a2ae77-5f63-4be1-9464-41fa12818dfa" />| ![校准后]<img width="1206" height="2622" alt="968eebb70b9200f0e81452dd13c41309" src="https://github.com/user-attachments/assets/ec55a7e2-1f5d-4935-99e1-28ca67a29f36" /> |
+| ![校准前]<img width="1206" height="2622" alt="968eebb70b9200f0e81452dd13c41309" src="https://github.com/user-attachments/assets/c8a2ae77-5f63-4be1-9464-41fa12818dfa" />| ![校准后]<img width="1206" height="2622" alt="a53ae1351202c372c9f69c9da2b6d50e" src="https://github.com/user-attachments/assets/d808a3e0-239e-45df-9032-375fd488ed4e" /> |
+
 
 *[待补充：替换为实际打印对比图]*
 
